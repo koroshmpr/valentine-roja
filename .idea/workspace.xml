@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c567a8b8-530b-47cc-aafb-dfb4499b261d" name="Changes" comment="edit ver 1.8&#10;new banners added" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="bb1207c6-5234-45d0-9b97-8bf836c4da8f" />
+        <option name="url" value="https://github.com/koroshmpr/rojashop-landing.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ZLYkxPjrOe8BuJmHmg8zWRFr9Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;debugger.stepping&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\websites\Roja Shop\valentine-landing\src\library" />
+      <recent name="D:\websites\Roja Shop\valentine-landing\style\library" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="ChromiumRemoteDebugType" />
+        <option value="NodeJSConfigurationType" />
+        <option value="js.build_tools.npm" />
+      </set>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c567a8b8-530b-47cc-aafb-dfb4499b261d" name="Changes" comment="" />
+      <created>1702202978690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702202978690</updated>
+      <workItem from="1702202978714" duration="19094000" />
+      <workItem from="1702273460699" duration="20743000" />
+      <workItem from="1702360599345" duration="6314000" />
+      <workItem from="1702705524841" duration="13753000" />
+      <workItem from="1702883950482" duration="3043000" />
+      <workItem from="1702966155684" duration="2489000" />
+      <workItem from="1703050729171" duration="2783000" />
+      <workItem from="1703312423122" duration="2376000" />
+      <workItem from="1706349112718" duration="16835000" />
+      <workItem from="1706422848197" duration="25496000" />
+      <workItem from="1706452389536" duration="2086000" />
+      <workItem from="1706506320589" duration="4392000" />
+      <workItem from="1706512712508" duration="22331000" />
+      <workItem from="1706593832694" duration="16778000" />
+    </task>
+    <task id="LOCAL-00001" summary="edit ver 1.0">
+      <created>1702207258832</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1702207258833</updated>
+    </task>
+    <task id="LOCAL-00002" summary="edit ver 1.1">
+      <created>1702216607741</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1702216607741</updated>
+    </task>
+    <task id="LOCAL-00003" summary="edit ver 1.1">
+      <created>1702221059426</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1702221059426</updated>
+    </task>
+    <task id="LOCAL-00004" summary="edit ver 1.1">
+      <created>1702221318746</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702221318746</updated>
+    </task>
+    <task id="LOCAL-00005" summary="edit ver 1.1">
+      <created>1702221342372</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702221342372</updated>
+    </task>
+    <task id="LOCAL-00006" summary="edit ver 1.1">
+      <created>1702221571844</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1702221571844</updated>
+    </task>
+    <task id="LOCAL-00007" summary="edit ver 1.2&#10;improve speed">
+      <created>1702280500823</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702280500823</updated>
+    </task>
+    <task id="LOCAL-00008" summary="edit ver 1.2&#10;improve speed">
+      <created>1702280684661</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702280684661</updated>
+    </task>
+    <task id="LOCAL-00009" summary="edit ver 1.2&#10;improve speed">
+      <created>1702280882256</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1702280882256</updated>
+    </task>
+    <task id="LOCAL-00010" summary="edit ver 1.2&#10;improve speed">
+      <created>1702281246159</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1702281246159</updated>
+    </task>
+    <task id="LOCAL-00011" summary="edit ver 1.2&#10;improve speed">
+      <created>1702282354934</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1702282354934</updated>
+    </task>
+    <task id="LOCAL-00012" summary="edit ver 1.2&#10;improve speed">
+      <created>1702282637840</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1702282637840</updated>
+    </task>
+    <task id="LOCAL-00013" summary="edit ver 1.2&#10;improve speed">
+      <created>1702283183008</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1702283183008</updated>
+    </task>
+    <task id="LOCAL-00014" summary="edit ver 1.3&#10;banners addet">
+      <created>1702304171990</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1702304171990</updated>
+    </task>
+    <task id="LOCAL-00015" summary="edit ver 1.3&#10;banners addet">
+      <created>1702307361828</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1702307361828</updated>
+    </task>
+    <task id="LOCAL-00016" summary="edit ver 1.3&#10;banners addet">
+      <created>1702308145084</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1702308145084</updated>
+    </task>
+    <task id="LOCAL-00017" summary="edit ver 1.4&#10;compass animation">
+      <created>1702361432645</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1702361432645</updated>
+    </task>
+    <task id="LOCAL-00018" summary="edit ver 1.4&#10;compass animation">
+      <created>1702363613817</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1702363613817</updated>
+    </task>
+    <task id="LOCAL-00019" summary="edit ver 1.5&#10;new link for gift numebr 1">
+      <created>1702365836227</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1702365836235</updated>
+    </task>
+    <task id="LOCAL-00020" summary="edit ver 1.6&#10;change 50percent discount and 40percent discount banner">
+      <created>1702382681277</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1702382681277</updated>
+    </task>
+    <task id="LOCAL-00021" summary="edit ver 1.7&#10;Carousel edits">
+      <created>1702729417785</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1702729417785</updated>
+    </task>
+    <task id="LOCAL-00022" summary="edit ver 1.7&#10;Carousel edits">
+      <created>1702732225908</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1702732225908</updated>
+    </task>
+    <task id="LOCAL-00023" summary="edit ver 1.8&#10;add register button">
+      <created>1702885075320</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1702885075320</updated>
+    </task>
+    <task id="LOCAL-00024" summary="edit ver 1.8&#10;add register button">
+      <created>1702885094118</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1702885094118</updated>
+    </task>
+    <task id="LOCAL-00025" summary="edit ver 1.8&#10;add register button">
+      <created>1702885796993</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1702885796993</updated>
+    </task>
+    <task id="LOCAL-00026" summary="edit ver 1.8&#10;new banners added">
+      <created>1703063393709</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1703063393709</updated>
+    </task>
+    <task id="LOCAL-00027" summary="edit ver 1.8&#10;new banners added">
+      <created>1703063403099</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1703063403099</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="edit ver 1.0" />
+    <MESSAGE value="edit ver 1.1" />
+    <MESSAGE value="edit ver 1.2&#10;improve speed" />
+    <MESSAGE value="edit ver 1.3&#10;banners addet" />
+    <MESSAGE value="edit ver 1.4&#10;compass animation" />
+    <MESSAGE value="edit ver 1.5&#10;new link for gift numebr 1" />
+    <MESSAGE value="edit ver 1.6&#10;change 50percent discount and 40percent discount banner" />
+    <MESSAGE value="edit ver 1.7&#10;Carousel edits" />
+    <MESSAGE value="edit ver 1.8&#10;add register button" />
+    <MESSAGE value="edit ver 1.8&#10;new banners added" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit ver 1.8&#10;new banners added" />
+  </component>
+</project>
