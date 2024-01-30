@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c567a8b8-530b-47cc-aafb-dfb4499b261d" name="Changes" comment="edit ver 1.8&#10;new banners added">
+    <list default="true" id="c567a8b8-530b-47cc-aafb-dfb4499b261d" name="Changes" comment="edit ver 1.0.1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,7 +102,7 @@
       <workItem from="1706452389536" duration="2086000" />
       <workItem from="1706506320589" duration="4392000" />
       <workItem from="1706512712508" duration="22331000" />
-      <workItem from="1706593832694" duration="17213000" />
+      <workItem from="1706593832694" duration="25504000" />
     </task>
     <task id="LOCAL-00001" summary="edit ver 1.0">
       <created>1702207258832</created>
@@ -290,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1703063403099</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="edit ver 1.0.1">
+      <created>1706620257351</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1706620257351</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -307,6 +317,7 @@
     <MESSAGE value="edit ver 1.7&#10;Carousel edits" />
     <MESSAGE value="edit ver 1.8&#10;add register button" />
     <MESSAGE value="edit ver 1.8&#10;new banners added" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit ver 1.8&#10;new banners added" />
+    <MESSAGE value="edit ver 1.0.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit ver 1.0.1" />
   </component>
 </project>

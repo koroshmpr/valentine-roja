@@ -4,12 +4,14 @@
 @import url(./fonts/YekanBakh/fontface.css);
 /* basics */
 :root {
-    --radius: 10px;
+    --radius: 5px;
     --primary: #861B1D;
     --bs-secondary-rgb: 255, 9, 106;
     --bs-primary-rgb: 134, 27, 29;
 }
-
+html {
+    scroll-behavior: smooth;
+}
 ::-webkit-scrollbar {
     width: 8px;
 }
@@ -187,7 +189,7 @@ section {
 }
 
 /*roze*/
-.roze:before, .roze:after, .carousel-second article.container:after , .first-buy:before , .first-buy:after , .roz-twin:before , .roz-twin:after , .rent:before {
+.roze:before, .roze:after, .carousel-second article.container:after , .first-buy:before , .first-buy:after , .roz-twin:before , .roz-twin:after , .rent:before , .petal-big:after {
     content: url('../assets/objects/roze.webp');
     position: absolute;
 }
@@ -242,10 +244,21 @@ section {
 }
 
 /*petal*/
-.petal:before, .petal:after , .brand-container:before {
+.petal:before, .petal:after , .brand-container:before , .petal-big:before {
     content: url('../assets/objects/petal.webp');
     position: absolute;
     top: 50%;
+}
+.petal-big:before {
+    top: 25%;
+    right: 100px;
+    transform: rotate(90deg);
+    filter: blur(3px);
+}
+.petal-big:after {
+    bottom: 15%;
+    left: 7%;
+    transform: scale(0.8) rotate(90deg);
 }
 .petal:before {
     right: 100px;
@@ -299,7 +312,7 @@ section {
     }
 
     .ribbon-big:after {
-        top: 50%;
+        top:38%;
         height: 292px;
         left: 3%;
         transform: rotate(90deg);
@@ -314,6 +327,8 @@ section {
     }
 
     .svg-draw {
+        /*height: 100%;*/
+        transition:all 1.5s linear;
         width: 30vw;
     }
 

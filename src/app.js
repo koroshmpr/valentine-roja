@@ -31,38 +31,65 @@ document.addEventListener('DOMContentLoaded', function () {
               }
           },
     });
-    function drawSvg(elementId , multiple = 1) {
+    function drawSvg(elementId, multiple = 1, containerId) {
         var element = document.getElementById(elementId);
+        var container = document.getElementById(containerId);
+        if (!element || !container) {
+            console.error('SVG or container element not found.');
+            return;
+        }
+
         // Get the total length of the SVG path
         var length = element.getTotalLength();
 
         // Set the initial styles
         element.style.strokeDasharray = length;
         element.style.strokeDashoffset = length;
-        let docElement = document.documentElement;
+
         // When the page scrolls...
-        window.addEventListener("scroll", function(e) {
-            let docElement = document.documentElement;
-            // Calculate the scroll percentage
-            var scrollPercentage = ( docElement.scrollTop + document.body.scrollTop) / (docElement.scrollHeight - docElement.clientHeight) * multiple;
-            // Calculate the draw length based on the scroll percentage
-            var drawLength = length * (1 - scrollPercentage);
+        function isScrolledIntoView(container) {
+            if (!container) {
+                return false;
+            }
 
-            // Update the stroke dashoffset to reveal the SVG path
-            element.style.strokeDashoffset = Math.max(0, drawLength);
+            var docViewTop = window.scrollY || document.documentElement.scrollTop;
+            var docViewBottom = docViewTop + window.innerHeight || document.documentElement.clientHeight;
 
-            // When the drawing is complete, remove the dash array
-            if (scrollPercentage >= 0.99) {
-                element.style.strokeDasharray = "none";
+            var containerTop = container.offsetTop;
+            var containerBottom = containerTop + container.offsetHeight;
+
+            return ((containerBottom <= docViewBottom) && (containerTop >= docViewTop));
+        }
+
+        window.addEventListener("scroll", function () {
+            var containerTopOffset = container.offsetTop;
+
+            if (window.scrollY + 500 >= containerTopOffset) {
+                var scrollPercentage = (document.documentElement.scrollTop + window.scrollY - containerTopOffset) /
+                    (document.documentElement.scrollHeight - document.documentElement.clientHeight) * multiple;
+
+                var drawLength = length * (1 - scrollPercentage);
+
+                element.style.strokeDashoffset = Math.max(0, drawLength);
+
+                if (scrollPercentage >= 0.99) {
+                    element.style.strokeDasharray = "none";
+                } else {
+                    element.style.strokeDasharray = length + ' ' + length;
+                }
             } else {
+                // Reset styles if the container is not scrolled into view
                 element.style.strokeDasharray = length + ' ' + length;
+                element.style.strokeDashoffset = length;
             }
         });
+
+
     }
 
 
 // Example usage:
-    drawSvg('star-path-l'  , 1);
-    drawSvg('star-path-r' , 2);
+    drawSvg('star-path-l'  , 1 , 'test2');
+    drawSvg('star-path-r' , 2 , 'svg-container');
 
 });
