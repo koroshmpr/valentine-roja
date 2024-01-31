@@ -344,6 +344,9 @@ section {
 }
 
 @media (max-width: 992px) {
+    .carousel-second article.container:before {
+        top: 60%
+    }
     .heart-title {
         padding: 10px;
         font-size : 20px;
