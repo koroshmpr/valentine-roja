@@ -271,6 +271,9 @@ section {
     top: 0;
 }
 @media (max-width: 768px) {
+    .first-buy:after , .first-buy:before {
+        transform:scale(0.6);
+    }
     .svg-draw {
         position: fixed;
         z-index: -1;
