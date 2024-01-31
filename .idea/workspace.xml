@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c567a8b8-530b-47cc-aafb-dfb4499b261d" name="Changes" comment="edit ver 1.0.3&#10;responsive fix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hero/Mobile-banner.webp" beforeDir="false" afterPath="$PROJECT_DIR$/assets/hero/Mobile-banner.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/hero/slide-banner.webp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style/style.css" afterDir="false" />
     </list>
@@ -104,7 +102,7 @@
       <workItem from="1706506320589" duration="4392000" />
       <workItem from="1706512712508" duration="22331000" />
       <workItem from="1706593832694" duration="25575000" />
-      <workItem from="1706679896624" duration="8468000" />
+      <workItem from="1706679896624" duration="9451000" />
     </task>
     <task id="LOCAL-00001" summary="edit ver 1.0">
       <created>1702207258832</created>
@@ -351,7 +349,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706690058133</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="edit ver 1.0.3&#10;responsive fix">
+      <created>1706691121350</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1706691121350</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

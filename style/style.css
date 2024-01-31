@@ -103,7 +103,9 @@ section {
     height: 94px;
     z-index: -1;
 }
-
+.swiper-button-disabled {
+    opacity: 0.5;
+}
 .carousel-second:before {
     bottom: 100%;
 }
