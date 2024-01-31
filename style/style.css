@@ -75,6 +75,12 @@ section {
 .category-container .category-card_container {
     z-index: 1;
 }
+.category-container .category-card_container img {
+    transition: transform 0.3s ease;
+}
+.category-container .category-card_container:hover img {
+    transform: scale(1.01);
+}
 
 .product-card, .card_banner, .category-card {
     text-align: center;

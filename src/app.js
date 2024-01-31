@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 // Example usage:
-    drawSvg('star-path-l'  , 1 , 'test2');
-    drawSvg('star-path-r' , 2 , 'svg-container');
+    drawSvg('star-path-l'  , 1 , 'svgSecond');
+    drawSvg('star-path-r' , 1 , 'svgFirst');
 
 });
