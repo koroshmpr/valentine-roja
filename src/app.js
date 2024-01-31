@@ -38,28 +38,11 @@ document.addEventListener('DOMContentLoaded', function () {
             console.error('SVG or container element not found.');
             return;
         }
-
         // Get the total length of the SVG path
         var length = element.getTotalLength();
-
         // Set the initial styles
         element.style.strokeDasharray = length;
         element.style.strokeDashoffset = length;
-
-        // When the page scrolls...
-        function isScrolledIntoView(container) {
-            if (!container) {
-                return false;
-            }
-
-            var docViewTop = window.scrollY || document.documentElement.scrollTop;
-            var docViewBottom = docViewTop + window.innerHeight || document.documentElement.clientHeight;
-
-            var containerTop = container.offsetTop;
-            var containerBottom = containerTop + container.offsetHeight;
-
-            return ((containerBottom <= docViewBottom) && (containerTop >= docViewTop));
-        }
 
         window.addEventListener("scroll", function () {
             var containerTopOffset = container.offsetTop;
@@ -87,9 +70,8 @@ document.addEventListener('DOMContentLoaded', function () {
 
     }
 
-
 // Example usage:
-    drawSvg('star-path-l'  , 1 , 'svgSecond');
     drawSvg('star-path-r' , 1 , 'svgFirst');
+    drawSvg('star-path-l'  , 1 , 'svgSecond');
 
 });

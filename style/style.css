@@ -357,7 +357,7 @@ section {
     .heart-title:after  {
         left:0
     }
-    .roze:after, .roze:before {
+    .roze:after, .roze:before , .carousel-second article.container:after {
         content: "";
     }
 
