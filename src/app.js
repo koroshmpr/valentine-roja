@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', function () {
     }
 
 // Example usage:
-    drawSvg('star-path-r' , 1 , 'svgFirst');
+    drawSvg('star-path-r' , 2 , 'svgFirst');
     drawSvg('star-path-l'  , 1 , 'svgSecond');
 
 });
