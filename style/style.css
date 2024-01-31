@@ -279,6 +279,9 @@ section {
 
 @media (min-width: 993px) {
     .heart-title {
+        border-radius:var(--radius);
+    }
+    .heart-title {
         font-size : 30px
     }
     /*ribbons*/
@@ -328,10 +331,10 @@ section {
        position: absolute;
     }
     .heart-title:before  {
-        right:0
+        right:10px
     }
     .heart-title:after  {
-        left:0
+        left:10px
     }
     .roze:after, .roze:before , .carousel-second article.container:after {
         content: "";
