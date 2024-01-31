@@ -89,7 +89,7 @@ section {
 .product-card {
     background: white;
     padding: 10px 15px;
-    min-height: 250px;
+    min-height: 200px;
     border-radius: var(--radius);
 }
 
@@ -333,7 +333,6 @@ section {
     }
 
     .svg-draw {
-        /*height: 100%;*/
         transition:all 1.5s linear;
         width: 30vw;
     }
@@ -365,7 +364,7 @@ section {
     }
 
     .single-slider {
-        height: 330px;
+        height: 400px;
     }
 
     .card_banner {
