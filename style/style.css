@@ -9,7 +9,7 @@
     --bs-secondary-rgb: 255, 9, 106;
     --bs-primary-rgb: 134, 27, 29;
 }
-html {
+html , body {
     scroll-behavior: smooth;
 }
 ::-webkit-scrollbar {
