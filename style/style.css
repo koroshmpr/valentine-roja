@@ -11,19 +11,19 @@
 ::-webkit-scrollbar-thumb { background: var(--primary);}
 /*styles*/
 html,
-body {
+body.valentine {
     font-family: Yekan;
     overflow-x: hidden;
 }
-main {
+body.valentinemain {
     overflow: hidden;
 }
 
-.single-slider .swiper-wrapper {
+body.valentine .single-slider .swiper-wrapper {
     background: url('../assets/hero/hero-banner.webp') center/cover;
 }
 
-section {
+body.valentine section {
     position: relative;
 }
 
@@ -51,13 +51,13 @@ section {
 }
 
 /*cards*/
-.category-container .category-card_container {
+body.valentine .category-container .category-card_container {
     z-index: 1;
 }
-.category-container .category-card_container img {
+body.valentine .category-container .category-card_container img {
     transition: transform 0.3s ease;
 }
-.category-container .category-card_container:hover img {
+body.valentine .category-container .category-card_container:hover img {
     transform: scale(1.01);
 }
 
@@ -76,16 +76,16 @@ section {
     aspect-ratio: 1;
 }
 
-.carousel-second:before, .carousel-second:after {
+body.valentine .carousel-second:before, body.valentine .carousel-second:after {
     content: url('../assets/objects/ribbon.webp');
     position: absolute;
     height: 94px;
     z-index: -1;
 }
-.swiper-button-disabled {
+body.valentine .swiper-button-disabled {
     opacity: 0.5;
 }
-.carousel-second:before {
+body.valentine .carousel-second:before {
     bottom: 100%;
 }
 
@@ -121,7 +121,7 @@ section {
     }
 }
 
-.header-container {
+body.valentine .header-container {
     height: 60px
 }
 
@@ -218,12 +218,12 @@ section {
     bottom: 0;
 }
 
-.carousel.roze:before {
+body.valentine .carousel.roze:before {
     right: 8%;
     transform: rotate(45deg);
 }
 
-.carousel.roze:after {
+body.valentine .carousel.roze:after {
     left: 7vw;
     transform: scale(0.8) rotateY(180deg);
     filter: blur(2px);
