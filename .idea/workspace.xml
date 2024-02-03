@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c567a8b8-530b-47cc-aafb-dfb4499b261d" name="Changes" comment="edit ver 1.0.3&#10;responsive fix">
+    <list default="true" id="c567a8b8-530b-47cc-aafb-dfb4499b261d" name="Changes" comment="edit ver 1.0.3&#10;link fixed">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -102,7 +102,7 @@
       <workItem from="1706512712508" duration="22331000" />
       <workItem from="1706593832694" duration="25575000" />
       <workItem from="1706679896624" duration="17888000" />
-      <workItem from="1706940936352" duration="248000" />
+      <workItem from="1706940936352" duration="1455000" />
     </task>
     <task id="LOCAL-00001" summary="edit ver 1.0">
       <created>1702207258832</created>
@@ -391,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1706702748419</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="edit ver 1.0.3&#10;link fixed">
+      <created>1706941268195</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1706941268195</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -411,6 +418,7 @@
     <MESSAGE value="edit ver 1.0.1" />
     <MESSAGE value="edit ver 1.0.2 &#10;svg draw fix" />
     <MESSAGE value="edit ver 1.0.3&#10;responsive fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="edit ver 1.0.3&#10;responsive fix" />
+    <MESSAGE value="edit ver 1.0.3&#10;link fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="edit ver 1.0.3&#10;link fixed" />
   </component>
 </project>
